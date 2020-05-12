@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://observatoriodeseries.uol.com.br/wp-content/uploads/2020/04/Novo-Projeto-2020-04-11T192316.138.jpg');
+    background-size: 1360px 660px;
+    font-family: Arial
+    
+  }
+  
+  .menu {
+   background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+   list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
